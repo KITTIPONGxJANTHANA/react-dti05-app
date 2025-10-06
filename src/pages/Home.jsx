@@ -36,13 +36,13 @@ const Home = () => {
           <span>
             Web developer, with extensive knowledge and years of experience
           </span>
-
+          {}
           <div className="flex mt-5 gap-3">
             <FaLinkedinIn className="text-4xl bg-white text-black p-2 rounded-4xl" />
             <FaGithub className="text-4xl" />
           </div>
         </div>
-
+        {}
         <div className="ml-20">
           <img src={Pro} alt="Pro" />
         </div>
